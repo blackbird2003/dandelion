@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\dandelion\build\CMakeFiles\bb7150ee17584cd2695b64da17814a9e\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\dandelion\deps\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\dandelion\deps\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\dandelion\deps\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\dandelion\build\deps\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{961B3A21-47C5-32D6-BC14-B18FD43A7B98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3F56C7E6-428F-307A-B707-1E10954BAF79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

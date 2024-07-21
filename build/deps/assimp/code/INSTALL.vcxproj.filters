@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\dandelion\build\CMakeFiles\b9d5dfe988067e40965a651c6d3afd75\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{961B3A21-47C5-32D6-BC14-B18FD43A7B98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

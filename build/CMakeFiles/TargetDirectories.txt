@@ -1,0 +1,17 @@
+D:/dandelion/build/CMakeFiles/dandelion.dir
+D:/dandelion/build/CMakeFiles/INSTALL.dir
+D:/dandelion/build/CMakeFiles/ALL_BUILD.dir
+D:/dandelion/build/CMakeFiles/ZERO_CHECK.dir
+D:/dandelion/build/deps/glfw/CMakeFiles/INSTALL.dir
+D:/dandelion/build/deps/glfw/CMakeFiles/ALL_BUILD.dir
+D:/dandelion/build/deps/glfw/src/CMakeFiles/update_mappings.dir
+D:/dandelion/build/deps/glfw/src/CMakeFiles/glfw.dir
+D:/dandelion/build/deps/glfw/src/CMakeFiles/INSTALL.dir
+D:/dandelion/build/deps/assimp/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+D:/dandelion/build/deps/assimp/CMakeFiles/INSTALL.dir
+D:/dandelion/build/deps/assimp/CMakeFiles/ALL_BUILD.dir
+D:/dandelion/build/deps/assimp/contrib/zlib/CMakeFiles/zlibstatic.dir
+D:/dandelion/build/deps/assimp/contrib/zlib/CMakeFiles/INSTALL.dir
+D:/dandelion/build/deps/assimp/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+D:/dandelion/build/deps/assimp/code/CMakeFiles/assimp.dir
+D:/dandelion/build/deps/assimp/code/CMakeFiles/INSTALL.dir
