@@ -1,0 +1,14 @@
+[Default] [info] Dandelion 3D, started at 2024-07-21 20:17:56+0900
+[Platform] [debug] Try to create OpenGL context 4.6
+[Platform] [info] runtime OpenGL context: 4.6.0 Core Profile Context 23.19.12.240216
+[Platform] [info] Physical screen size: 302x189 mm, diagonal: 14.03 in
+[Platform] [info] screen DPI: 188.33, scale factor: 1.5
+[Platform] [warning] The vertex shader file is empty!
+[Platform] [info] The loaded vertex shader: resources/shaders/vertex.glsl
+[Platform] [warning] The fragment shader file is empty!
+[Platform] [info] The loaded fragment shader: resources/shaders/fragment.glsl
+[Platform] [debug] Vertex shader 1 compiled successfully.
+[Platform] [debug] Fragment shader 2 compiled successfully.
+[Platform] [info] Shader program 3 link succeeded
+[Platform] [info] ImGui shutdown
+[Platform] [info] GLFW shutdown

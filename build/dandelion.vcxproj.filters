@@ -40,15 +40,6 @@
     <ClCompile Include="D:\dandelion\src\utils\stb_image_wrapper.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\dandelion\src\utils\ray.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="D:\dandelion\src\utils\aabb.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="D:\dandelion\src\utils\bvh.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="D:\dandelion\src\utils\kinetic_state.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

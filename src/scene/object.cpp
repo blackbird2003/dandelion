@@ -45,7 +45,19 @@ Object::Object(const string& object_name)
 
 Matrix4f Object::model()
 {
-    return Matrix4f::Identity();
+    //return Matrix4f::Identity();
+        Eigen::Matrix4f translation = Eigen::Matrix4f::Identity();
+    translation.block<3, 1>(0, 3) = center;
+
+    Eigen::Matrix4f rotation_matrix = Eigen::Matrix4f::Identity();
+    rotation_matrix.block<3, 3>(0, 0) = rotation.toRotationMatrix();
+
+    Eigen::Matrix4f scaling_matrix = Eigen::Matrix4f::Identity();
+    scaling_matrix(0, 0) = scaling[0];
+    scaling_matrix(1, 1) = scaling[1];
+    scaling_matrix(2, 2) = scaling[2];
+
+    return translation * rotation_matrix * scaling_matrix;
 }
 
 void Object::update(vector<Object*>& all_objects)

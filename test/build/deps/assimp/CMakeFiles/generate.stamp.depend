@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+D:/dandelion/deps/assimp/CMakeLists.txt
+D:/dandelion/deps/assimp/assimp.pc.in
+D:/dandelion/deps/assimp/cmake-modules/FindPkgMacros.cmake
+D:/dandelion/deps/assimp/cmake-modules/PrecompiledHeader.cmake
+D:/dandelion/deps/assimp/cmake-modules/assimp-plain-config.cmake.in
+D:/dandelion/deps/assimp/include/assimp/config.h.in
+D:/dandelion/deps/assimp/revision.h.in
